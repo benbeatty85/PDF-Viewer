@@ -1,5 +1,5 @@
 
-const url = '../docs/sample-PDF-two.pdf';
+const url = 'https://benbeatty85.github.io/docs/sample-PDF-two.pdf';
 
 let pdfDoc = null,
     pageNum = 1,
